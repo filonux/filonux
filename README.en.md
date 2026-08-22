@@ -91,8 +91,6 @@ Programming, AI, and automation are another way I've found to turn my ideas into
 
 ## `$ ./stats.sh`
 
-*Live data from the GitHub API — this never needs to be updated by hand.*
-
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=filonux&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7EE787&icon_color=E3B341&text_color=C9D1D9" alt="filonux's GitHub stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=filonux&layout=compact&hide_border=true&bg_color=0D1117&title_color=7EE787&text_color=C9D1D9" alt="filonux's most used languages" />
