@@ -89,8 +89,6 @@ La programación, la IA y la automatización son otro modo que he encontrado par
 
 ## `$ ./stats.sh`
 
-*Datos en vivo desde la API de GitHub — esto no hay que actualizarlo nunca a mano.*
-
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=filonux&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7EE787&icon_color=E3B341&text_color=C9D1D9" alt="Estadísticas de GitHub de filonux" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=filonux&layout=compact&hide_border=true&bg_color=0D1117&title_color=7EE787&text_color=C9D1D9" alt="Lenguajes más usados por filonux" />
