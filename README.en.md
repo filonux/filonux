@@ -22,8 +22,6 @@ Programming, AI, and automation are another way I've found to turn my ideas into
 
 ## `$ ls tools/`
 
-*Living list — updated by hand every time I publish something new. Chronological order, oldest to newest.*
-
 <!--
   📌 HOW TO ADD A NEW TOOL
   1. Find the category it fits best. If none fits, create a new
