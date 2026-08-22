@@ -20,8 +20,6 @@ La programación, la IA y la automatización son otro modo que he encontrado par
 
 ## `$ ls herramientas/`
 
-*Lista viva: se actualiza a mano cada vez que publico algo nuevo. Orden cronológico, de la más antigua a la más reciente.*
-
 <!--
   📌 CÓMO AÑADIR UNA HERRAMIENTA NUEVA
   1. Busca la categoría donde mejor encaje. Si ninguna encaja, crea una
