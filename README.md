@@ -4,7 +4,7 @@
 
 **Filósofo de la tecnología** · investigo cómo las herramientas nos transforman, y construyo algunas por el camino.
 
-![Abierto a contratación](https://img.shields.io/badge/Abierto%20a%20contrataci%C3%B3n-2ea44f?style=flat-square)
+![Abierto a propuestas laborales](https://img.shields.io/badge/Abierto%20a%20contrataci%C3%B3n-2ea44f?style=flat-square)
 
 > Bienvenido a la caja de herramientas de un filósofo.
 
