@@ -70,7 +70,7 @@ La programación, la IA y la automatización son otro modo que he encontrado par
 |---|---|
 | [**LinuxMint-Scripter**](https://github.com/filonux/LinuxMint-Scripter) | Web de un solo archivo para generar y auditar scripts de Bash o Python con ayuda de IA — tu proveedor local o en la nube, con tu propia clave, sin servidor intermedio. |
 | [**Scriptya**](https://github.com/filonux/Scriptya) | Convierte cualquier script en una app con icono propio e integración en el menú de Cinnamon o el escritorio — instálalo, actualízalo o desinstálalo desde un único sitio. |
-
+| [**Mi-Lanzador**](https://github.com/filonux/Mi-Lanzador) | Secuencias de pasos que abren programas, documentos, páginas web o comandos, colocan ventanas, simulan clics y pulsan teclas, encadenados y en orden — como una macro de AutoHotkey. |
 ---
 
 ## `$ cat stack.txt`
