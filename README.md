@@ -37,11 +37,13 @@ La programación, la IA y la automatización son otro modo que he encontrado par
 | [**Autostart_Manager**](https://github.com/filonux/Autostart_Manager) | Junta en un mismo panel las apps, servicios systemd y tareas cron que arrancan solas al iniciar sesión, con más control del que ofrece Mint de serie. |
 | [**Mint-Doctor**](https://github.com/filonux/Mint-Doctor) | Revisa Linux Mint en busca de los problemas más habituales y los repara automáticamente, bajo tu aprobación en cada paso. |
 
-### 🎨 Personalización y apariencia
+### 🎨 Personalización y Oficina
 
 | Herramienta | Qué hace |
 |---|---|
 | [**Color-Mint**](https://github.com/filonux/Color-Mint) | Personaliza la estética completa de Cinnamon —temas, panel, escritorio, terminal y fuentes— desde una sola ventana, con copia de seguridad automática antes de cada cambio. |
+| [**PhoneCam**](https://github.com/filonux/PhoneCam) | Convierte la cámara y el micrófono de tu Android en webcam y micrófono de Linux por USB — 100% local, privado y gratis: sin apps en el móvil, sin Wi-Fi, sin nube ni versión de pago. |
+
 
 ### 💾 Copias de seguridad y configuración
 
