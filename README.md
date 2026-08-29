@@ -27,7 +27,6 @@ La programación, la IA y la automatización son otro modo que he encontrado par
   2. Añade una fila a la tabla de esa categoría, en orden cronológico
      (de más antigua a más reciente) según la fecha de creación del repo:
      | [**Nombre-Del-Repo**](https://github.com/filonux/Nombre-Del-Repo) | Qué hace, en una frase. |
-  3. Commit y push — no hace falta tocar nada más de este README.
 -->
 
 ### 🩺 Mantenimiento del sistema
