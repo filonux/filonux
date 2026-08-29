@@ -22,16 +22,6 @@ Programming, AI, and automation are another way I've found to turn my ideas into
 
 ## `$ ls tools/`
 
-<!--
-  📌 HOW TO ADD A NEW TOOL
-  1. Find the category it fits best. If none fits, create a new
-     section with this same format: "### emoji Category name" + table.
-  2. Add a row to that category's table, in chronological order
-     (oldest to newest) based on the repo's creation date:
-     | [**Repo-Name**](https://github.com/filonux/Repo-Name) | What it does, in one sentence. |
-  3. Commit and push — nothing else in this README needs to change.
--->
-
 ### 🩺 System maintenance
 
 | Tool | What it does |
@@ -39,11 +29,12 @@ Programming, AI, and automation are another way I've found to turn my ideas into
 | [**Autostart_Manager**](https://github.com/filonux/Autostart_Manager) | Brings together, in one panel, every app, systemd service, and cron job that launches on login — with more control than Mint offers out of the box. |
 | [**Mint-Doctor**](https://github.com/filonux/Mint-Doctor) | Scans Linux Mint for the most common issues and fixes them automatically, with your approval at every step. |
 
-### 🎨 Customization & appearance
+### 🎨 Customization & Office
 
 | Tool | What it does |
 |---|---|
 | [**Color-Mint**](https://github.com/filonux/Color-Mint) | Customizes Cinnamon's entire look — themes, panel, desktop, terminal, and fonts — from a single window, with an automatic backup before every change. |
+| [**PhoneCam**](https://github.com/filonux/PhoneCam) | Turn your Android camera and microphone into a Linux webcam and microphone over USB — 100% local, private, and free: no apps on your phone, no Wi-Fi, no cloud, and no paid version. |
 
 ### 💾 Backups & configuration
 
@@ -72,6 +63,7 @@ Programming, AI, and automation are another way I've found to turn my ideas into
 |---|---|
 | [**LinuxMint-Scripter**](https://github.com/filonux/LinuxMint-Scripter) | A single-file web app for generating and auditing Bash or Python scripts with AI help — your own local or cloud provider, your own API key, no middleman server. |
 | [**Scriptya**](https://github.com/filonux/Scriptya) | Turns any script into an app with its own icon and integration into the Cinnamon menu or desktop — install, update, or uninstall it all from one place. |
+| [**Mi-Lanzador**](https://github.com/filonux/Mi-Lanzador) | Sequences of steps that open programs, documents, web pages, or commands, arrange windows, simulate clicks, and press keys, chained together in order — like an AutoHotkey macro. |
 
 ---
 
