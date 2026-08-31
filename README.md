@@ -20,15 +20,6 @@ La programación, la IA y la automatización son otro modo que he encontrado par
 
 ## `$ ls herramientas/`
 
-<!--
-  📌 CÓMO AÑADIR UNA HERRAMIENTA NUEVA
-  1. Busca la categoría donde mejor encaje. Si ninguna encaja, crea una
-     nueva sección con este mismo formato: "### emoji Nombre de categoría" + tabla.
-  2. Añade una fila a la tabla de esa categoría, en orden cronológico
-     (de más antigua a más reciente) según la fecha de creación del repo:
-     | [**Nombre-Del-Repo**](https://github.com/filonux/Nombre-Del-Repo) | Qué hace, en una frase. |
--->
-
 ### 🩺 Mantenimiento del sistema
 
 | Herramienta | Qué hace |
