@@ -64,6 +64,7 @@ Programming, AI, and automation are another way I've found to turn my ideas into
 | [**LinuxMint-Scripter**](https://github.com/filonux/LinuxMint-Scripter) | A single-file web app for generating and auditing Bash or Python scripts with AI help — your own local or cloud provider, your own API key, no middleman server. |
 | [**Scriptya**](https://github.com/filonux/Scriptya) | Turns any script into an app with its own icon and integration into the Cinnamon menu or desktop — install, update, or uninstall it all from one place. |
 | [**Mi-Lanzador**](https://github.com/filonux/Mi-Lanzador) | Sequences of steps that open programs, documents, web pages, or commands, arrange windows, simulate clicks, and press keys, chained together in order — like an AutoHotkey macro. |
+| [**Dev Log**](https://github.com/filonux/Bitacora-Dev) | Preserves the history and context of a project: versions, decisions, notes, pending tasks, and changes, with contextual AI to understand and analyze its evolution directly from the browser. It also includes a purely administrative, optional feature (you don’t need AI to use it). |
 
 ---
 
