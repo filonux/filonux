@@ -1,6 +1,6 @@
 <p align="right"><sub><strong>ES</strong> · <a href="./README.md">EN</a></sub></p>
 
-![FILONUX TOOLS](./assets/banner.svg)
+![FILONUX TOOLS](./assets/banner1.svg)
 
 **Filósofo de la tecnología & Builder** · convierto ideas y problemas complejos en software funcional, con especial fortaleza en LLMs, herramientas de IA, interacción humano-IA, privacidad y open source.
 
