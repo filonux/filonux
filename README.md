@@ -1,69 +1,76 @@
-<p align="right"><sub><strong>ES</strong> · <a href="./README.en.md">EN</a></sub></p>
+<p align="right"><sub><a href="./README.es.md">ES</a> · <strong>EN</strong></sub></p>
 
 ![FILONUX TOOLS](./assets/banner.svg)
 
-**Filósofo de la tecnología** · investigo cómo las herramientas nos transforman, y construyo algunas por el camino.
+**Philosopher of Technology & Builder** · I turn complex ideas and problems into functional software, with particular strength in LLMs, AI tooling, human-AI interaction, privacy, and open source.
 
-> Bienvenido a la caja de herramientas de un filósofo.
+![Open to work](https://img.shields.io/badge/Open%20to%20work-2ea44f?style=flat-square) 🌍 ![Worldwide / Remote](https://img.shields.io/badge/Worldwide%20%2F%20Remote-0969da?style=flat-square)
 
----
-
-## `$ cat sobre-mi.md`
-
-Siempre me ha interesado la tecnología, los medios de comunicación y la privacidad. Gran parte de mi carrera ha estado dedicada a investigar los avances tecnológicos que la humanidad ha ido incorporando en sus sociedades, y cómo estos la han ido transformando, para bien y para mal.
-
-Con el paso de los años y los sucesivos cambios, he aprendido a usar la tecnología desde ángulos que no estaban previstos, es decir, usar ese artefacto tecnológico de una nueva forma que sirva como solución ante una dificultad, problema o automatización. Porque las piezas para la solución estaban ahí, pero faltaba montar el puzzle completo para que la solución se hiciese realidad. Esta idea es una de mis líneas de pensamiento: se pueden construir soluciones increíbles con pocos recursos si se sabe utilizarlos correctamente. Al mismo tiempo, trato de mantener las cosas simples pero que a la vez aporten una solución compleja que reduzca fricción, mejore usabilidad y permita al usuario elegir lo que quiera, sin que esa elección le perjudique. Estas ideas han repercutido en cómo están diseñadas las herramientas que os comparto. Lo hago de este modo porque es exactamente lo que hubiese necesitado cuando era un niño, ya que recuerdo lo que era abrir un programa en un idioma extraño, con una jerga técnica, plagado de opciones y menús, sentirme abrumado por no saber qué hacer pese a saber que se pueden hacer innumerables cosas. Ese tipo de impedimentos son los que trato de solventar cuando diseño una solución; el proceso para llegar a ella es lo que más me motiva, pues disfruto aprendiendo, explorando todo lo que desconozco y me encanta mejorar lo que ya sé. Eso es justo lo que me guía en la vida.
-
-La programación, la IA y la automatización son otro modo que he encontrado para trasladar mis ideas a la realidad, al mismo tiempo, me ha dado una actividad placentera en la que puedo pasar muchas horas concentrado.
+> I want to use technology, not have technology use me.
 
 ---
 
-## `$ ls herramientas/`
+## `$ cat about-me.md`
 
-### 🩺 Mantenimiento del sistema
+I've always been drawn to technology, media, and privacy. A large part of my career has been spent researching the technological advances humanity keeps weaving into its societies, and how they've reshaped it — for better and for worse.
 
-| Herramienta | Qué hace |
+Over the years, through one change after another, I've learned to look at technology from angles it wasn't originally built for: taking a piece of tech and repurposing it to solve a difficulty, a problem, or something that needed automating. The pieces for the solution were already there — what was missing was putting the whole puzzle together to make it real. That's one of my core lines of thinking: incredible solutions can be built with very few resources, if you know how to use them right. At the same time, I try to keep things simple while still packing in a solution sophisticated enough to cut friction, improve usability, and let the user choose what they want without that choice working against them later. These ideas are what have shaped how the tools I share here are designed. I build them this way because it's exactly what I would have needed as a kid — I remember opening a program in an unfamiliar language, full of technical jargon, menus, and options, and feeling completely overwhelmed, unsure what to do despite knowing countless things were possible. Those kinds of obstacles are exactly what I try to solve when I design something; the process of getting there is what motivates me most, since I love learning, exploring what I don't yet know, and getting better at what I already know. That's what guides me in life.
+
+Programming, AI, and automation are another way I've found to turn my ideas into reality — and at the same time, they've given me an activity I genuinely enjoy, one I can lose many focused hours in.
+
+---
+
+## `$ ls tools/`
+
+### 🩺 System maintenance
+
+| Tool | What it does |
 |---|---|
-| [**Autostart_Manager**](https://github.com/filonux/Autostart_Manager) | Junta en un mismo panel las apps, servicios systemd y tareas cron que arrancan solas al iniciar sesión, con más control del que ofrece Mint de serie. |
-| [**Mint-Doctor**](https://github.com/filonux/Mint-Doctor) | Revisa Linux Mint en busca de los problemas más habituales y los repara automáticamente, bajo tu aprobación en cada paso. |
+| [**Autostart_Manager**](https://github.com/filonux/Autostart_Manager) | Brings together, in one panel, every app, systemd service, and cron job that launches on login — with more control than Mint offers out of the box. |
+| [**Mint-Doctor**](https://github.com/filonux/Mint-Doctor) | Scans Linux Mint for the most common issues and fixes them automatically, with your approval at every step. |
 
-### 🎨 Personalización y Oficina
+### 🎨 Customization & multimedia
 
-| Herramienta | Qué hace |
+| Tool | What it does |
 |---|---|
-| [**Color-Mint**](https://github.com/filonux/Color-Mint) | Personaliza la estética completa de Cinnamon —temas, panel, escritorio, terminal y fuentes— desde una sola ventana, con copia de seguridad automática antes de cada cambio. |
-| [**PhoneCam**](https://github.com/filonux/PhoneCam) | Convierte la cámara y el micrófono de tu Android en webcam y micrófono de Linux por USB — 100% local, privado y gratis: sin apps en el móvil, sin Wi-Fi, sin nube ni versión de pago. |
+| [**Color-Mint**](https://github.com/filonux/Color-Mint) | Customizes Cinnamon's entire look — themes, panel, desktop, terminal, and fonts — from a single window, with an automatic backup before every change. |
+| [**PhoneCam**](https://github.com/filonux/PhoneCam) | Turns your Android camera and microphone into a Linux webcam and microphone over USB — 100% local, private, and free: no apps on your phone, no Wi-Fi, no cloud, and no paid version. |
 
+### 💾 Backups & configuration
 
-### 💾 Copias de seguridad y configuración
-
-| Herramienta | Qué hace |
+| Tool | What it does |
 |---|---|
-| [**Mint-Setup**](https://github.com/filonux/Mint-Setup) | Guarda cómo tienes configurado tu escritorio y tus apps —paneles, temas, Wi-Fi, Firefox, VS Code, Docker, header LUKS...— y lo restaura entero en una instalación nueva. |
-| [**Simple-Backup**](https://github.com/filonux/Simple-Backup) | Copias de seguridad, resincronización de carpetas y tareas automatizadas, todo en un script de Bash. |
+| [**Mint-Setup**](https://github.com/filonux/Mint-Setup) | Saves how your desktop and apps are set up — panels, themes, Wi-Fi, Firefox, VS Code, Docker, LUKS header... — and restores all of it on a fresh install. |
+| [**Simple-Backup**](https://github.com/filonux/Simple-Backup) | Backups, folder resyncing, and automated tasks, all in a single Bash script. |
 
-### 🔒 Seguridad y privacidad
+### 🔒 Security & privacy
 
-| Herramienta | Qué hace |
+| Tool | What it does |
 |---|---|
-| [**Enkripta**](https://github.com/filonux/Enkripta) | Cifra carpetas y archivos con AES-256 integrado en Nemo y el escritorio —doble clic, botón derecho, icono propio— como si fuera parte del propio sistema. |
-| [**Browser-Cleaner**](https://github.com/filonux/Browser-Cleaner) | Limpia 14 navegadores distintos de la forma más simple, práctica y rápida posible. |
+| [**Enkripta**](https://github.com/filonux/Enkripta) | Encrypts folders and files with AES-256, built right into Nemo and the desktop — double-click, right-click, its own icon — as if it were part of the system itself. |
+| [**Browser-Cleaner**](https://github.com/filonux/Browser-Cleaner) | Cleans 14 different browsers in the simplest, most practical, and fastest way possible. |
 
-### 🗂️ Gestión de software y archivos
+### 🗂️ Software & file management
 
-| Herramienta | Qué hace |
+| Tool | What it does |
 |---|---|
-| [**MintApp_Remover**](https://github.com/filonux/MintApp_Remover) | Desinstala cualquier programa de Linux Mint de forma segura: cubre todo el software preinstalado y limpia las dependencias huérfanas que deja atrás. |
-| [**Renombrador**](https://github.com/filonux/Renombrador) | Renombra archivos y carpetas por lotes, con vista previa y opción de deshacer, desde la terminal o el botón derecho en Nemo. |
+| [**MintApp_Remover**](https://github.com/filonux/MintApp_Remover) | Safely uninstalls any program on Linux Mint — covers all preinstalled software and cleans up the orphaned dependencies it leaves behind. |
+| [**Renombrador**](https://github.com/filonux/Renombrador) | Batch-renames files and folders, with a preview and undo option, from the terminal or the right-click menu in Nemo. |
 
-### 🧑‍💻 Desarrollo y scripting
+### 🧑‍💻 Development
 
-| Herramienta | Qué hace |
+| Tool | What it does |
 |---|---|
-| [**LinuxMint-Scripter**](https://github.com/filonux/LinuxMint-Scripter) | Web de un solo archivo para generar y auditar scripts de Bash o Python con ayuda de IA — tu proveedor local o en la nube, con tu propia clave, sin servidor intermedio. |
-| [**Scriptya**](https://github.com/filonux/Scriptya) | Convierte cualquier script en una app con icono propio e integración en el menú de Cinnamon o el escritorio — instálalo, actualízalo o desinstálalo desde un único sitio. |
-| [**Mi-Lanzador**](https://github.com/filonux/Mi-Lanzador) | Secuencias de pasos que abren programas, documentos, páginas web o comandos, colocan ventanas, simulan clics y pulsan teclas, encadenados y en orden — como una macro de AutoHotkey. |
-| [**Bitácora Dev**](https://github.com/filonux/Bitacora-Dev) | Conserva la historia y el contexto de un proyecto: versiones, decisiones, notas, pendientes y cambios, con una IA contextual para entender y analizar su evolución desde el navegador, con una función puramente administrativa y opcional (no necesitas IA para usarlo). |
+| [**LinuxMint-Scripter**](https://github.com/filonux/LinuxMint-Scripter) | A single-file web app for generating and auditing Bash or Python scripts with AI help — your own local or cloud provider, your own API key, no middleman server. |
+| [**Dev Log**](https://github.com/filonux/Bitacora-Dev) | Preserves the history and context of a project: versions, decisions, notes, pending tasks, and changes, with contextual AI to understand and analyze its evolution directly from the browser. It also includes a purely administrative, optional feature (you don't need AI to use it). |
+
+### ⚙️ Automation & integration
+
+| Tool | What it does |
+|---|---|
+| [**Scriptya**](https://github.com/filonux/Scriptya) | Turns any script into an app with its own icon and integration into the Cinnamon menu or desktop — install, update, or uninstall it all from one place. |
+| [**Mi-Lanzador**](https://github.com/filonux/Mi-Lanzador) | Sequences of steps that open programs, documents, web pages, or commands, arrange windows, simulate clicks, and press keys, chained together in order — like an AutoHotkey macro. |
+
 ---
 
 ## `$ cat stack.txt`
@@ -81,15 +88,17 @@ La programación, la IA y la automatización son otro modo que he encontrado par
 ## `$ ./stats.sh`
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=filonux&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7EE787&icon_color=E3B341&text_color=C9D1D9" alt="Estadísticas de GitHub de filonux" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=filonux&layout=compact&hide_border=true&bg_color=0D1117&title_color=7EE787&text_color=C9D1D9" alt="Lenguajes más usados por filonux" />
+  <img src="https://github-stats-extended.vercel.app/api?username=filonux&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7EE787&icon_color=E3B341&text_color=C9D1D9" alt="filonux's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=filonux&layout=compact&hide_border=true&bg_color=0D1117&title_color=7EE787&text_color=C9D1D9" alt="filonux's most used languages" />
 </p>
 
 ---
 
-## `$ ./contacto.sh`
+## `$ ./contact.sh`
 
-Abierto a propuestas laborales y colaborativas.
+Open to roles as an `AI Product Engineer` or `Founding AI Engineer`, and to collabs — worldwide or remote.
+
+`AI Tools` · `Local AI`
 
 📧 **[filonux@proton.me](mailto:filonux@proton.me)**
 
