@@ -2,7 +2,7 @@
 
 ![FILONUX TOOLS](./assets/banner2.svg)
 
-**Filósofo de la tecnología & Builder** · convierto ideas y problemas complejos en software funcional, con especial fortaleza en LLMs, herramientas de IA, interacción humano-IA, privacidad y open source.
+**Filósofo de la tecnología & Builder** · convierto ideas y problemas complejos en herramientas funcionales, guiado por la filosofía KISS — LLMs, IA, interacción humano-IA, privacidad y open source.
 
 ![Disponible](https://img.shields.io/badge/Disponible-2ea44f?style=flat-square) 🌍 ![Remoto / Mundial](https://img.shields.io/badge/Remoto%20%2F%20Mundial-0969da?style=flat-square)
 
@@ -14,7 +14,7 @@
 
 Siempre me han interesado la tecnología, los medios de comunicación y la privacidad. Gran parte de mi carrera ha estado dedicada a investigar los avances tecnológicos que la humanidad ha ido incorporando en sus sociedades, y cómo estos la han ido transformando, para bien y para mal.
 
-Con el paso de los años y los sucesivos cambios, he aprendido a usar la tecnología desde ángulos que no estaban previstos, es decir, usar ese artefacto tecnológico de una nueva forma que sirva como solución ante una dificultad, problema o automatización. Porque las piezas para la solución estaban ahí, pero faltaba montar el puzzle completo para que la solución se hiciese realidad. Esta idea es una de mis líneas de pensamiento: se pueden construir soluciones increíbles con pocos recursos si se sabe utilizarlos correctamente. Al mismo tiempo, trato de mantener las cosas simples, pero aportando a la vez una solución lo bastante compleja como para reducir la fricción, mejorar la usabilidad y permitir que el usuario elija lo que quiera, sin que esa elección le perjudique después. Estas ideas han repercutido en cómo están diseñadas las herramientas que te comparto. Lo hago de este modo porque es exactamente lo que hubiese necesitado cuando era un niño, ya que recuerdo lo que era abrir un programa en un idioma extraño, con una jerga técnica, plagado de opciones y menús, y sentirme abrumado por no saber qué hacer pese a saber que se pueden hacer innumerables cosas. Ese tipo de impedimentos son los que trato de solventar cuando diseño una solución; el proceso para llegar a ella es lo que más me motiva, pues disfruto aprendiendo, explorando todo lo que desconozco y me encanta mejorar lo que ya sé. Eso es justo lo que me guía en la vida.
+Con el paso de los años y los sucesivos cambios, he aprendido a usar la tecnología desde ángulos que no estaban previstos, es decir, usar ese artefacto tecnológico de una nueva forma que sirva como solución ante una dificultad, problema o automatización. Porque las piezas para la solución estaban ahí, pero faltaba montar el puzzle completo para que la solución se hiciese realidad. Esta idea es una de mis líneas de pensamiento: se pueden construir soluciones increíbles con pocos recursos si se sabe utilizarlos correctamente. Al mismo tiempo, esa misma filosofía KISS se traduce en permitir que el usuario elija lo que quiera, sin que esa elección le perjudique después. Estas ideas han repercutido en cómo están diseñadas las herramientas que te comparto. Lo hago de este modo porque es exactamente lo que hubiese necesitado cuando era un niño, ya que recuerdo lo que era abrir un programa en un idioma extraño, con una jerga técnica, plagado de opciones y menús, y sentirme abrumado por no saber qué hacer pese a saber que se pueden hacer innumerables cosas. Ese tipo de impedimentos son los que trato de solventar cuando diseño una solución; el proceso para llegar a ella es lo que más me motiva, pues disfruto aprendiendo, explorando todo lo que desconozco y me encanta mejorar lo que ya sé. Eso es justo lo que me guía en la vida.
 
 La programación, la IA y la automatización son otro modo que he encontrado para trasladar mis ideas a la realidad; al mismo tiempo, me han dado una actividad placentera en la que puedo pasar muchas horas concentrado.
 
@@ -96,7 +96,7 @@ La programación, la IA y la automatización son otro modo que he encontrado par
 
 ## `$ ./contacto.sh`
 
-Abierto a roles como `AI Product Engineer` o `Founding AI Engineer`, y a colaboraciones — cualquier país o en remoto.
+Abierto a roles como `AI Product Engineer`, `Founding AI Engineer` y afines — impacto social de la tecnología, construcción de producto o interacción humano-IA — además de colaboraciones, en cualquier país o en remoto.
 
 `AI Tools` · `Local AI`
 
