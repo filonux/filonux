@@ -2,7 +2,7 @@
 
 ![FILONUX TOOLS](./assets/banner2.svg)
 
-**Philosopher of Technology & Builder** · I turn complex ideas and problems into functional tools, guided by the KISS philosophy — LLMs, AI, human-AI interaction, privacy, and open source.
+**Philosopher of Technology — MA in Theoretical and Practical Philosophy: Logic, History and Philosophy of Science — & Builder** · I turn complex ideas and problems into functional tools, guided by the KISS philosophy — LLMs, AI, human-AI interaction, privacy, and open source.
 
 ![Open to work](https://img.shields.io/badge/Open%20to%20work-2ea44f?style=flat-square) 🌍 ![Worldwide / Remote](https://img.shields.io/badge/Worldwide%20%2F%20Remote-0969da?style=flat-square)
 
