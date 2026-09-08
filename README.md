@@ -2,7 +2,7 @@
 
 ![FILONUX TOOLS](./assets/banner2.svg)
 
-**Philosopher of Technology & Builder** · I turn complex ideas and problems into functional software, with particular strength in LLMs, AI tooling, human-AI interaction, privacy, and open source.
+**Philosopher of Technology & Builder** · I turn complex ideas and problems into functional tools, guided by the KISS philosophy — LLMs, AI, human-AI interaction, privacy, and open source.
 
 ![Open to work](https://img.shields.io/badge/Open%20to%20work-2ea44f?style=flat-square) 🌍 ![Worldwide / Remote](https://img.shields.io/badge/Worldwide%20%2F%20Remote-0969da?style=flat-square)
 
@@ -14,7 +14,7 @@
 
 I've always been drawn to technology, media, and privacy. A large part of my career has been spent researching the technological advances humanity keeps weaving into its societies, and how they've reshaped it, for better and for worse.
 
-Over the years, through one change after another, I've learned to look at technology from angles it wasn't originally built for: taking a piece of tech and repurposing it to solve a difficulty, a problem, or something that needed automating. The pieces for the solution were already there, what was missing was putting the whole puzzle together to make it real. That's one of my core lines of thinking: incredible solutions can be built with very few resources, if you know how to use them right. At the same time, I try to keep things simple while still packing in a solution sophisticated enough to cut friction, improve usability, and let the user choose what they want without that choice working against them later. These ideas are what have shaped how the tools I share here are designed. I build them this way because it's exactly what I would have needed as a kid, I remember opening a program in an unfamiliar language, full of technical jargon, menus, and options, and feeling completely overwhelmed, unsure what to do despite knowing countless things were possible. Those kinds of obstacles are exactly what I try to solve when I design something; the process of getting there is what motivates me most, since I love learning, exploring what I don't yet know, and getting better at what I already know. That's what guides me in life.
+Over the years, through one change after another, I've learned to look at technology from angles it wasn't originally built for: taking a piece of tech and repurposing it to solve a difficulty, a problem, or something that needed automating. The pieces for the solution were already there, what was missing was putting the whole puzzle together to make it real. That's one of my core lines of thinking: incredible solutions can be built with very few resources, if you know how to use them right. At the same time, that same KISS philosophy translates into letting the user choose what they want without that choice working against them later. These ideas are what have shaped how the tools I share here are designed. I build them this way because it's exactly what I would have needed as a kid, I remember opening a program in an unfamiliar language, full of technical jargon, menus, and options, and feeling completely overwhelmed, unsure what to do despite knowing countless things were possible. Those kinds of obstacles are exactly what I try to solve when I design something; the process of getting there is what motivates me most, since I love learning, exploring what I don't yet know, and getting better at what I already know. That's what guides me in life.
 
 Programming, AI, and automation are another way I've found to turn my ideas into reality, and at the same time, they've given me an activity I genuinely enjoy, one I can lose many focused hours in.
 
@@ -96,7 +96,7 @@ Programming, AI, and automation are another way I've found to turn my ideas into
 
 ## `$ ./contact.sh`
 
-Open to roles as an `AI Product Engineer` or `Founding AI Engineer`, and to collabs — worldwide or remote.
+Open to roles like `AI Product Engineer`, `Founding AI Engineer`, and similar — tech's social impact, product building, or human-AI interaction — plus collabs, worldwide or remote.
 
 `AI Tools` · `Local AI`
 
