@@ -2,7 +2,7 @@
 
 ![FILONUX TOOLS](./assets/banner2.svg)
 
-**Filósofo de la tecnología & Builder** · convierto ideas y problemas complejos en herramientas funcionales, guiado por la filosofía KISS — LLMs, IA, interacción humano-IA, privacidad y open source.
+**Filósofo de la tecnología — Máster Universitario en Filosofía Teórica y Práctica: Lógica, Historia y Filosofía de la Ciencia — & Builder** · convierto ideas y problemas complejos en herramientas funcionales, guiado por la filosofía KISS — LLMs, IA, interacción humano-IA, privacidad y open source.
 
 ![Disponible](https://img.shields.io/badge/Disponible-2ea44f?style=flat-square) 🌍 ![Remoto / Mundial](https://img.shields.io/badge/Remoto%20%2F%20Mundial-0969da?style=flat-square)
 
