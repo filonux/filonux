@@ -49,6 +49,7 @@ La programación, la IA y la automatización son otro modo que he encontrado par
 |---|---|
 | [**Enkripta**](https://github.com/filonux/Enkripta) | Cifra carpetas y archivos con AES-256 integrado en Nemo y el escritorio —doble clic, botón derecho, icono propio— como si fuera parte del propio sistema. |
 | [**Browser-Cleaner**](https://github.com/filonux/Browser-Cleaner) | Limpia 14 navegadores distintos de la forma más simple, práctica y rápida posible. |
+| [**VPN NetGuard**](https://github.com/filonux/VPN-NetGuard) | Kill switch, reconexión automática y anonimato de red para tu VPN en Linux — panel gráfico, menú de terminal o servicio systemd headless. Instalación en 1 clic, con configuración avanzada disponible. |
 
 ### 🗂️ Gestión de software y archivos
 
