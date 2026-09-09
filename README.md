@@ -49,6 +49,7 @@ Programming, AI, and automation are another way I've found to turn my ideas into
 |---|---|
 | [**Enkripta**](https://github.com/filonux/Enkripta) | Encrypts folders and files with AES-256, built right into Nemo and the desktop — double-click, right-click, its own icon — as if it were part of the system itself. |
 | [**Browser-Cleaner**](https://github.com/filonux/Browser-Cleaner) | Cleans 14 different browsers in the simplest, most practical, and fastest way possible. |
+| [**VPN NetGuard**](https://github.com/filonux/VPN-NetGuard) | VPN kill switch, auto-reconnect and network privacy for Linux — GUI panel, terminal menu or headless systemd service. One-click setup, with deep configuration available. |
 
 ### 🗂️ Software & file management
 
