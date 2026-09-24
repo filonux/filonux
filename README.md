@@ -97,7 +97,7 @@ Programming, AI, and automation are another way I've found to turn my ideas into
 
 ## `$ ./contact.sh`
 
-Open to roles like `AI Product Engineer`, `Founding AI Engineer`, and similar — tech's social impact, product building, or human-AI interaction — plus collabs, worldwide or remote.
+Open to roles like `AI Product Engineer`, `Founding AI Engineer`, and similar — tech's social impact, product building, or human-AI interaction — plus collabs, worldwide or remote..
 
 `AI Tools` · `Local AI`
 
