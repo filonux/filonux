@@ -34,7 +34,7 @@ Programming, AI, and automation are another way I've found to turn my ideas into
 | Tool | What it does |
 |---|---|
 | [**Color-Mint**](https://github.com/filonux/Color-Mint) | Customizes Cinnamon's entire look — themes, panel, desktop, terminal, and fonts — from a single window, with an automatic backup before every change. |
-| [**PhoneCam**](https://github.com/filonux/PhoneCam) | Turns your Android camera and microphone into a Linux webcam and microphone over USB — 100% local, private, and free: no apps on your phone, no Wi-Fi, no cloud, and no paid version. |
+| [**PhoneCam**](https://github.com/filonux/PhoneCam) | Use your Android phone's camera and mic as a webcam and microphone on Linux over USB — 100% local, nothing to install on the phone. One Bash script: scrcpy + v4l2loopback + PipeWire. |
 
 ### 💾 Backups & configuration
 
