@@ -10,7 +10,7 @@
 
 <p align="center">I turn complex ideas and problems into functional tools, guided by the KISS philosophy — LLMs, AI, human-AI interaction, privacy, and open source.</p>
 
-<p align="center">🟢 <strong>Open to work</strong> · 💻 <strong>Remote</strong>: for any company in the world · 🌍 <strong>Relocation</strong>: any country</p>
+<p align="center"><img src="./assets/icons/open-to-work.svg" width="22" height="22" align="absmiddle" alt=""> <strong>Open to work</strong> · <img src="./assets/icons/remote.svg" width="22" height="22" align="absmiddle" alt=""> <strong>Remote</strong>: for any company in the world · <img src="./assets/icons/relocation.svg" width="22" height="22" align="absmiddle" alt=""> <strong>Relocation</strong>: any country</p>
 
 <p align="center"><em>I want to use technology, not have technology use me.</em></p>
 
