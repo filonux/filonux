@@ -22,13 +22,15 @@ That's one of my core lines of thinking: **incredible solutions can be built wit
 
 Those kinds of obstacles are exactly what I try to solve when I design something; the process of getting there is what motivates me most, since **I love learning, exploring what I don't yet know**, and getting better at what I already know. That's what guides me in life. Programming, AI, and automation are another way I've found to turn my ideas into reality, and at the same time, they've given me an activity I genuinely enjoy, one I can lose many focused hours in.
 
+And now, the next step: I'm going to **found a startup** around privacy, security, artificial intelligence, automation, and tool-building. Beyond collaborations and job opportunities, I'm looking for **allies** for the *founding team*: talented people who understand the work and the ideas behind my projects and share my vision. I'd rather keep the process personal: one-on-one, with no CVs piling up and no bots ranking them, so we can get to know each other. The full why is in [Join](./JOIN.md).
+
 ## `$ ls tools/`
 
 ### <img src="./assets/icons/maintenance.svg" width="22" height="22" align="absmiddle" alt=""> System maintenance
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tool&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What it does |
 |:---:|:---|
-| [<img src="./assets/icons/autostart-manager.png" width="28" height="28" alt=""><br>**Autostart_Manager**](https://github.com/filonux/Autostart_Manager) | Brings together, in one panel, every app, systemd service, and cron job that launches on login — with more control than stock Mint. |
+| [<img src="./assets/icons/autostart-manager.png" width="28" height="28" alt=""><br>**Autostart_Manager**](https://github.com/filonux/Autostart_Manager) | One panel to see and control everything that starts on its own — apps, systemd services, and cron jobs — with one checkbox per item and warnings before you disable anything critical. |
 | [<img src="./assets/icons/mint-doctor.png" width="28" height="28" alt=""><br>**Mint-Doctor**](https://github.com/filonux/Mint-Doctor) | Scans Linux Mint for the most common issues and fixes them automat&shy;ically, with your approval at every step. |
 
 ### <img src="./assets/icons/customization.svg" width="22" height="22" align="absmiddle" alt=""> Customization & multimedia
@@ -65,7 +67,7 @@ Those kinds of obstacles are exactly what I try to solve when I design something
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tool&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | What it does |
 |:---:|:---|
 | [<img src="./assets/icons/linuxmint-scripter.png" width="28" height="28" alt=""><br>**LinuxMint-Scripter**](https://github.com/filonux/LinuxMint-Scripter) | Single-file web app to generate and audit Bash or Python scripts with AI — your own API key, no middleman server. |
-| [<img src="./assets/icons/bitacora-dev.png" width="28" height="28" alt=""><br>**Dev Log**](https://github.com/filonux/Bitacora-Dev) | Preserves a project's history and context — versions, decisions, notes, pending tasks — in the browser, with optional contextual AI. |
+| [<img src="./assets/icons/devlog.svg" width="28" height="28" alt=""><br>**Dev Log**](https://github.com/filonux/Bitacora-Dev) | Preserves a project's history and context — versions, decisions, notes, pending tasks — in the browser. An optional AI assistant operates the whole program just as you would, and an agent can control it too. |
 
 ### <img src="./assets/icons/automation.svg" width="22" height="22" align="absmiddle" alt=""> Automation & integration
 
@@ -80,11 +82,27 @@ Those kinds of obstacles are exactly what I try to solve when I design something
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&amp;logo=gnubash&amp;logoColor=white" alt="Bash">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css&amp;logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/-Linux%20Mint-87CF3E?style=flat-square&amp;logo=linuxmint&amp;logoColor=white" alt="Linux Mint">
   <img src="https://img.shields.io/badge/-GTK%20%2F%20Zenity-4A86CF?style=flat-square&amp;logo=gnome&amp;logoColor=white" alt="GTK/Zenity">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-LLMs-7C3AED?style=flat-square" alt="LLMs">
+  <img src="https://img.shields.io/badge/-AI%20Agents-7C3AED?style=flat-square" alt="AI Agents">
+  <img src="https://img.shields.io/badge/-MCP-7C3AED?style=flat-square&amp;logo=modelcontextprotocol&amp;logoColor=white" alt="MCP">
+  <img src="https://img.shields.io/badge/-Local%20AI-7C3AED?style=flat-square" alt="Local AI">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Automation-E3B341?style=flat-square" alt="Automation">
+  <img src="https://img.shields.io/badge/-Architecture%20Design-7EE787?style=flat-square" alt="Architecture Design">
 </p>
 
 ## `$ ./stats.sh`
@@ -94,13 +112,62 @@ Those kinds of obstacles are exactly what I try to solve when I design something
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=filonux&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=7EE787&amp;text_color=C9D1D9" alt="filonux's most used languages">
 </p>
 
+<!-- donate:start -->
+## `$ ./donate.sh`
+
+<p align="center"><img src="./assets/donate-card-en.svg" width="480" alt="My tools are free. If they save you time, you can support them — it&#x27;s voluntary and nothing is expected in return."></p>
+
+<div align="center">
+
+<details>
+<summary><img src="./assets/donate-en.svg" width="222" height="44" align="absmiddle" alt="Support my work"></summary>
+
+<br>
+
+<!-- donate:btc -->
+`[BTC]` **Bitcoin** · Bitcoin network
+
+```
+bc1qz8ryn3ag46hjg2yl7np57n2eqvk90ftv0smfue
+```
+
+<p align="center"><img src="./assets/qr/btc.svg" alt="Bitcoin QR code"></p>
+
+<sub>Send only BTC on the Bitcoin network.</sub>
+
+<!-- donate:usdt -->
+`[USDT]` **Tether** · Ethereum network (ERC-20)
+
+```
+0x7fc5FB3e9Bcd0775317CD140bB50ad5CDBedA1D0
+```
+
+<p align="center"><img src="./assets/qr/usdt.svg" alt="Tether QR code"></p>
+
+<sub>Send only USDT on the Ethereum network (ERC-20); other networks could lose the funds.</sub>
+
+<sub>Donations are voluntary and non-refundable.<br>Want it to go to a specific project? Email `filonux@proton.me` with the project name and the transaction hash (optional).</sub>
+
+</details>
+
+</div>
+<!-- donate:end -->
+
 ## `$ ./contact.sh`
 
 Open to roles like `AI Product Engineer`, `Founding AI Engineer`, and similar — tech's social impact, product building, or human-AI interaction — plus collabs.
 
-`AI Tools` · `Local AI`
+**I'm looking for allies for my future startup** in privacy, security, AI, automation, and tools. If you understand my work and the ideas behind my projects, write to me by email or Session: one-on-one, no CVs, no forms, we just talk. The why, in [Join](./JOIN.md).
+
+`AI Tools` · `Local AI` · `MCP` · `Automation`
 
 <a href="mailto:filonux@proton.me"><img src="./assets/email.svg" width="222" height="44" alt="filonux@proton.me"></a>
+
+**Session** — end-to-end encrypted messenger, no phone number:
+
+```
+05a6d7103c5f6214527ca7538c4b5d3f878651112afac165a992775c360fcbf353
+```
 
 ```
 filonux@nix:~$ _
